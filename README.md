@@ -28,7 +28,7 @@ This profile actively interfaces with the following enterprise engineering stack
 ---
 
 ## 📱 Connect With Me
-If you are an internal team member, partner, or client looking to sync, or if you just want to connect externally:
+If you are looking to sync, or if you just want to connect:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-787-ch) [![Main GitHub](https://img.shields.io/badge/Main_GitHub-121011?style=flat&logo=github&logoColor=white)](https://github.com/Ali-Ch-001)
 
