@@ -3,7 +3,7 @@
 
 ### Software Engineer & AI Solutions Architect
 
-> 🔒 **Notice:** This is a dedicated professional account utilized exclusively for enterprise development, internal infrastructure management, and secure production environments. Due to NDA and corporate compliance frameworks, active repositories and contributions here are kept private.
+> 🔒 **Notice:** This is a dedicated professional account utilized exclusively for enterprise development, internal infrastructure management, and secure production environments. Due to NDA and corporate compliance frameworks, active repositories and contributions here are kept private. Account only for use of ccript.com / neuralogic.com related work
 
 👉 **Looking for my public work?** Head over to my primary hub at **[@Ali-Ch-001](https://github.com/Ali-Ch-001)** to explore my open-source projects, quantitative finance tools, RAG pipelines, and full developer portfolio.
 
